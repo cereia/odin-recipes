@@ -1,4 +1,14 @@
 * {
   font-family: Helvetica, sans-serif;
   background-color: antiquewhite;
+  margin: 10px;
+}
+
+img {
+  height: auto;
+  width: 300px;
+}
+
+ol {
+  width: 75%;
 }
