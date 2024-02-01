@@ -2,6 +2,7 @@
   font-family: Helvetica, sans-serif;
   background-color: antiquewhite;
   margin: 10px;
+  /* text-align: center; */
 }
 
 img {
@@ -11,4 +12,12 @@ img {
 
 ol {
   width: 75%;
+}
+
+.card {
+  display: inline-block;
+}
+
+.container {
+  text-align: center;
 }
